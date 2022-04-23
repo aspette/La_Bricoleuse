@@ -1,2 +1,2 @@
-# La_Bricoleuse
+# La Bricoleuse
  A DOFUS Discord fan bot
