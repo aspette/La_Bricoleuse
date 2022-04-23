@@ -1,5 +1,6 @@
 # La Bricoleuse
  A DOFUS Discord fan bot
+-------
 
 Des nouveautés se bricolent chez ![](https://cdn.discordapp.com/emojis/801442141682270239.webp?size=28&quality=lossless) **la Bricoleuse** !
 
