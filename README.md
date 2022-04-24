@@ -38,6 +38,7 @@ Voici donc la liste des commandes qui seront disponibles avec la nouvelle versio
 - Les panoplies `/set`
 - Le Spell Guesser `/sg`
 - Les sorts `/spell`
+- <font color="#FFCC00">**NEW!**</font> Les challenges `/challenge`
 - <font color="#FFCC00">**NEW!**</font> Les classes `/class`
 - <font color="#FFCC00">**NEW!**</font> Les PNJs `/npc`
 
@@ -55,7 +56,6 @@ Et pour finir, une liste des commandes actuelles qui arriveront plus tard, et de
 - <font color="#FFCC00">**NEW!**</font> Le Monster Guesser `/mg`
 - <font color="#FFCC00">**NEW!**</font> Les succès `/achievement`
 - <font color="#FFCC00">**NEW!**</font> La worldmap `/worldmap` - <font color="#FFCC00">**NEW!**</font> `?havenbag` fusionnera avec cette commande !
-- <font color="#FFCC00">**NEW!**</font> Les challenges `/challenge`
 - <font color="#FFCC00">**NEW!**</font> L'Almanax `/almanax`
 - <font color="#FFCC00">**NEW!**</font> Les modificateurs de zone `/modificator`
 - <font color="#FFCC00">**NEW!**</font> Le look `/look`
