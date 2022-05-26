@@ -38,8 +38,12 @@ Voici donc la liste des commandes qui seront disponibles avec la nouvelle versio
 - Les panoplies `/set`
 - Le Spell Guesser `/sg`
 - Les sorts `/spell`
+- <font color="#FFCC00">**NEW!**</font> L'Almanax' `/almanax`
 - <font color="#FFCC00">**NEW!**</font> Les challenges `/challenge`
 - <font color="#FFCC00">**NEW!**</font> Les classes `/class`
+- <font color="#FFCC00">**NEW!**</font> Le générateur de noms de percepteurs `/percepteur`
+- <font color="#FFCC00">**NEW!**</font> Les incarnations `/incarnation`
+- <font color="#FFCC00">**NEW!**</font> Les modificateurs de zone `/modificator`
 - <font color="#FFCC00">**NEW!**</font> Les PNJs `/npc`
 
 L'ergonomie des commandes a été grandement améliorée, que ce soit sur la fiche de l'élément recherché ou sur la recherche en elle-même. Elles peuvent désormais redirigées vers d'autres commandes afin de faciliter grandement la navigation. En voici quelques aperçus :
@@ -56,13 +60,10 @@ Et pour finir, une liste des commandes actuelles qui arriveront plus tard, et de
 - <font color="#FFCC00">**NEW!**</font> Le Monster Guesser `/mg`
 - <font color="#FFCC00">**NEW!**</font> Les succès `/achievement`
 - <font color="#FFCC00">**NEW!**</font> La worldmap `/worldmap` - <font color="#FFCC00">**NEW!**</font> `?havenbag` fusionnera avec cette commande !
-- <font color="#FFCC00">**NEW!**</font> L'Almanax `/almanax`
-- <font color="#FFCC00">**NEW!**</font> Les modificateurs de zone `/modificator`
 - <font color="#FFCC00">**NEW!**</font> Le look `/look`
 - <font color="#FFCC00">**NEW!**</font> Les donjons `/dungeon`
 - <font color="#FFCC00">**NEW!**</font> Les drafts PvP `/draft`
-- <font color="#FFCC00">**NEW!**</font> Les incarnations `/incarnation`
-- <font color="#FFCC00">**NEW!**</font> Le Grand Bazar du Puits des Songes Infinis `/psibazar`
+- <font color="#FFCC00">**NEW!**</font> Le Bazar du Puits des Songes Infinis `/psibazar`
 
 Pour plus d'informations ou pour suivre l'avancée du portage du bot, n'hésitez pas à venir consulter ici : https://discord.gg/aspette
 
