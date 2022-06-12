@@ -130,10 +130,8 @@
 ### <font color="#FFCC00">**NEW!**</font> <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/almanax.png" width="28px"/> L'Almanax `/almanax`
 
 - Cette commande fonctionne avec deux sous-commandes :
-  - `/almanax date`
-    - Renvoie la fiche d'un Almanax selon la date entrée (jour et/ou mois et/ou année).
-      - Si aucun argument n'est entré, renvoie l'Almanax du jour.
-    - Il est possible de naviguer entre les Almanaxs des jours précédents et des jours suivants.
+  - `/almanax today`
+    - Renvoie la fiche de l'Almanax du jour.
   - `/almanax auto`
     - Renvoie automatiquement chaque jour l'Almanax du jour dans le salon utilisé.
       - Réutiliser cette commande dans un même salon désactive l'envoi automatique.
@@ -228,24 +226,3 @@
 - <font color="#FF0011">**DELETED**</font> Le Spell Guesser Interserveur `/spellguesserinterserveur`
 - <font color="#FF0011">**DELETED**</font> Les suggestions `/suggestion`
 
-### <font color="#00CCFF">**INFORMATION**</font> Rien n'est prévu pour le moment, mais la question du support des autres langues se pose.
-
----
-
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> `/changelog`
-> :SUBMIT: `/activity` (admin only) (add maintenance)
-> :SUBMIT: :soon: `/spellguesser` (`/sg`, it's better)
-> :SUBMIT: :soon: `/dofusthemes`
-> :SUBMIT: :soon: `/itemguesser` (`/ig`, it's better)
-> :SUBMIT: :grey_question: `/havenbag` (fusion with `/worldmap`)
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :soon: `/craft`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :soon: `/achievement`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :soon: `/look`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :grey_question: `/monsterguesser` (`/mg`, it's better)
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :grey_question: `/dungeon`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :grey_question: `/worldmap`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :grey_question: `/draft`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :grey_question: `/ktastats`
-> :SUBMIT: <font color="#FFCC00">**NEW!**</font> :grey_question: `/dreambonus` (returns infinite dream bonuses)
-
-> :NOK: <font color="#FFCC00">**NEW!**</font> :grey_question: `if input text exists` `/dream` (returns infinite dream monster)
