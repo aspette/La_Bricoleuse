@@ -121,6 +121,13 @@
 
 ---
 
+### <font color="#FFCC00">**NEW!**</font> <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/alteration.png" width="28px"/> Les altérations : `/achievement`
+
+- Renvoie la fiche d'une altération, par son nom ou son ID.
+  - Si aucun argument n'est entré, renvoie la liste de toutes les altérations.
+
+---
+
 ### <font color="#FFCC00">**NEW!**</font> <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/about.png" width="28px"/> À propos de <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/bricoleuse.png" width="28px"/> <font color="#b6c303">**La Bricoleuse**</font> : `/about`
 
 - Renvoie quelques détails à propos de <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/bricoleuse.png" width="28px"/> <font color="#b6c303">**La Bricoleuse**</font>.
@@ -225,4 +232,3 @@
 - <font color="#FF0011">**DELETED**</font> L'invocation de Chaferfu`/invocationdechaferfu`
 - <font color="#FF0011">**DELETED**</font> Le Spell Guesser Interserveur `/spellguesserinterserveur`
 - <font color="#FF0011">**DELETED**</font> Les suggestions `/suggestion`
-
