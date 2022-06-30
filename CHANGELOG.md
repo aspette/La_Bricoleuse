@@ -121,7 +121,7 @@
 
 ---
 
-### <font color="#FFCC00">**NEW!**</font> <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/alteration.png" width="28px"/> Les altérations : `/achievement`
+### <font color="#FFCC00">**NEW!**</font> <img src="https://raw.githubusercontent.com/aspette/La_Bricoleuse/master/Icons/Commands/alteration.png" width="28px"/> Les altérations : `/alteration`
 
 - Renvoie la fiche d'une altération, par son nom ou son ID.
   - Si aucun argument n'est entré, renvoie la liste de toutes les altérations.
